@@ -1,4 +1,4 @@
-# Cloud | Quickstarts
+# Cloud | Quickstarts ☁️
 This quickstart is for Cloud services and related notes and On-Prem (#CloudExit).
 
 ## Accounting and budgeting
